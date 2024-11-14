@@ -1,5 +1,6 @@
 # Minning_Lab1_Task
 Task 1.
+
 Create a series with index=['USSR','Germain','China','Japan','USA']) and population values
 ([8700000,4200000,3000000,2100000,400000]. Find the country where population is
 greater than 3 million. After that, convert this series into dictionary form.
